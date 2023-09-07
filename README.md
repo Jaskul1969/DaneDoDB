@@ -1,5 +1,5 @@
 # DaneDoDB
-Otwieranie programu do edycji:
+*Otwieranie programu do edycji*:
 1. Pobierz i zainstaluj program XAMPP Control Panel
 1a. Zainstaluj serwery Apache i MySQL
 2.Pobierz i zainstaluj program Visual Studio 2022
@@ -11,7 +11,7 @@ Otwieranie programu do edycji:
 7. Otwórz plik "DaneDoDB.sln" za pomocą Visual Studio.
 
    
-Otwieranie programu nie do edycji:
+*Otwieranie programu nie do edycji*:
 1.Pobierz i zainstaluj XAMPP Control Panel
 1a.Zainstaluj serwery Apache i MySQL
 2.Uruchom serwery i panel administratora MySQL
