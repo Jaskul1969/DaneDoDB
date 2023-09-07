@@ -9,4 +9,14 @@ Otwieranie programu do edycji:
 5. Wciśnij "Wybierz plik" i otwórz plik 127_0_0_1.sql, doda się baza danych i tabela
 6. Pobierz pozostałe pliki(DaneDoDB.sln i folder DaneDoDB) i umieść w jednym folderze.
 7. Otwórz plik "DaneDoDB.sln" za pomocą Visual Studio.
-Nie działa dodawanie danych do DB
+Otwieranie programu nie do edycji:
+1.Pobierz i zainstaluj XAMPP Control Panel
+1a.Zainstaluj serwery Apache i MySQL
+2.Uruchom serwery i panel administratora MySQL
+3.Na górnej wstążce wybierz "Import" i zaimportuj plik z bazą danych(db.sql)
+4.Zainstaluj program DaneDoDB.exe
+Gotowe!
+
+   Dokumentacje z których korzystałem:
+   https://dev.mysql.com/doc/connector-net/en/
+   https://api.itextpdf.com/iText/dotnet/8.0.1/
