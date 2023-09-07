@@ -79,7 +79,7 @@ namespace DaneDoDB
             if (polaczono)
             {
                 //tworzenie dokumentu pdf
-                string sciezka = "C:/projekt/Raport.pdf";//scieżka pliku
+                string sciezka = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.Desktop),"Raport.pdf");//scieżka pliku
                 //wywoływanie parametrów dokumentu
                 PdfWriter writer = new PdfWriter(sciezka);
                 PdfDocument pdfDok = new PdfDocument(writer);
