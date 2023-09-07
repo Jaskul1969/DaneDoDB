@@ -9,6 +9,8 @@ Otwieranie programu do edycji:
 5. Wciśnij "Wybierz plik" i otwórz plik 127_0_0_1.sql, doda się baza danych i tabela
 6. Pobierz pozostałe pliki(DaneDoDB.sln i folder DaneDoDB) i umieść w jednym folderze.
 7. Otwórz plik "DaneDoDB.sln" za pomocą Visual Studio.
+
+   
 Otwieranie programu nie do edycji:
 1.Pobierz i zainstaluj XAMPP Control Panel
 1a.Zainstaluj serwery Apache i MySQL
